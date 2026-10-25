@@ -1,0 +1,2 @@
+Java is another programming language.
+Python and Java are both widely used.

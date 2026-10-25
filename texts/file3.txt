@@ -1,0 +1,2 @@
+Concurrency can improve performance.
+Python supports threading and multiprocessing.
